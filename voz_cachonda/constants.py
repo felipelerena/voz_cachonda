@@ -1,0 +1,2 @@
+CRITICAL_FILE_NAME = "critical.wav"
+ITER_TIME = 30

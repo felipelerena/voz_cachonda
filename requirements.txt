@@ -1,0 +1,2 @@
+sensors.py==1.0
+simpleaudio==1.0.0
