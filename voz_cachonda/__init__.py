@@ -4,7 +4,7 @@ from time import sleep
 
 from simpleaudio import WaveObject
 
-from .constants import CRITICAL_FILE_NAME, ITER_TIME
+from constants import CRITICAL_FILE_NAME, ITER_TIME
 
 
 def play_critical():
